@@ -1,6 +1,6 @@
 ### Hi there, I am Sudip Ranabhat
 
-👋 Hi there! I'm a seasoned .NET developer with over years of experience in building robust and scalable applications. My passion lies in crafting elegant solutions to complex problems using the .NET ecosystem.
+👋 I'm a seasoned .NET developer with over years of experience in building robust and scalable applications. My passion lies in crafting elegant solutions to complex problems using the .NET ecosystem.
 
 ### 🌟 Expertise
 
